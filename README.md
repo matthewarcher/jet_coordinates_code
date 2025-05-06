@@ -1,6 +1,6 @@
 # jet_coordinates_code
 
-*** Code in progress ***
+*** Code not polished for general use ***
 
 Matlab code to convert a 2D velocity field of a meandering jet from geographical (lon/lat) to jet (cross-stream/alongstream) coordinates.
 Developed by Matt Archer to work with high frequency (HF) radar data in 3D (x,y,t).
